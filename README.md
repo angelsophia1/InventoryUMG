@@ -1,4 +1,4 @@
-# InventoryUMG
+# UMG UI & Inventory System
  
 It is a UE4 project to demonstrate UMG UI and an Inventory System.
 
